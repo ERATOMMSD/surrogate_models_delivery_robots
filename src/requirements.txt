@@ -1,0 +1,9 @@
+numpy
+pandas
+deap
+joblib
+jmetalpy
+scipy
+ansible
+scikit-learn
+onnx
